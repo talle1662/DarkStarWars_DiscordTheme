@@ -8,7 +8,7 @@ This is a modification to an existing theme called Dark Matter Theme.
 
 ## Download
 - BetterDiscord:
-- Vencord: ``
+- Vencord: `https://raw.githubusercontent.com/talle1662/DarkStarWars_DiscordTheme/main/DarkStarWars.theme.css`
 
 ## Credits
 * I didn't do anything special I just took the an open source theme and changed some parameters and made my changes available.
