@@ -1,0 +1,21 @@
+/**
+ * @name Dark Star Wars
+ * @author talle1662
+ * @version 1.0.0
+ * @description This is a modification to an existing theme called Dark Matter Theme.
+ * @source https://github.com/talle1662/DarkStarWars_DiscordTheme
+*/
+
+@import url('https://raw.githubusercontent.com/talle1662/DarkStarWars_DiscordTheme/main/src/base.css');
+
+/* Variables */
+:root {
+	--font-primary: 'Karla', sans-serif;
+	--font-display: var(--font-primary) !important;
+	--avatar-size: 32px;
+	--background-image: url('https://www.wallpapertip.com/wmimgs/137-1375187_star-wars-4k-wallpaper-83-4k-ultra-hd.jpg');
+	--home-image: url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.tenor.com%2Fimages%2F924038bdf276e0704007403e0e30da9d%2Ftenor.gif%3Fitemid%3D15704532&f=1&nofb=1&ipt=4fa85220ccc0acd26d3b51542808586e2168ae828a9f40d5b2fe021e7d79dc82&ipo=images.gif');
+	--background-solid: #07080a86;
+	--background-solid-dark: #101218;
+	--background-solid-darker: #0c0e12;
+}
