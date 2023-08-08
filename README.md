@@ -7,7 +7,6 @@ This is a modification to an existing theme called Dark Matter Theme.
 ![Preview](https://i.imgur.com/80Udx4P.png)
 
 ## Download
-- BetterDiscord:
 - Vencord: `https://raw.githubusercontent.com/talle1662/DarkStarWars_DiscordTheme/main/DarkStarWars.theme.css`
 
 ## Credits
