@@ -10,6 +10,6 @@ This is a modification to an existing theme called Dark Matter Theme.
 - Vencord: `https://raw.githubusercontent.com/talle1662/DarkStarWars_DiscordTheme/main/DarkStarWars.theme.css`
 
 ## Credits
-* I didn't do anything special I just took the an open source theme and changed some parameters and made my changes available.
+* I didn’t do anything special. I just used an open source theme and modified some parameters. Then I shared my changes with others.
 * All credit goes to the developers of the theme 
 * Theme I edited : [DarkMatter](https://github.com/DiscordStyles/DarkMatter)
