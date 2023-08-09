@@ -1,7 +1,7 @@
 # Dark Star Wars
 
-A cold & dark theme.
-This is a modification to an existing theme called Dark Matter Theme.
+A Cold & Dark Theme.
+This is a modified version of the [Dark Matter Theme](https://github.com/DiscordStyles/DarkMatter)
 > This is a modified version of a remake of the original Dark Matter theme by [cosmicsalad](http://github.com/cosmicsalad/) (AKA Hammock).
 
 ![Preview](https://i.imgur.com/80Udx4P.png)
